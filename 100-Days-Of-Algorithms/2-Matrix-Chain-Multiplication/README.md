@@ -8,7 +8,7 @@
 
 ## Key Idea
 
-**Dynamic Programming**. 
+**Dynamic Programming**.
 
 Since checking each possible parenthesization (brute force) would require a run-time that is exponential in the number of matrices, which is very slow and impractical for large n. 
 
