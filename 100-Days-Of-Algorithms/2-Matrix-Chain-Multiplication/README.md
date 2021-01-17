@@ -24,4 +24,4 @@ Time Complexity: $O(n^3)$  Space Complexity: $O(n^2)$
 
 ## Code
 
-* [matrix_chain_multiplication.py](https://github.com/xuhang57/Learn-Algorithms/blob/master/100-Days-Of-Algorithms/Matrix-Chain-Multiplication/matrix_chain_multiplication.py)
+* [matrix_chain_multiplication.py](https://github.com/xuhang57/Learn-Algorithms/blob/master/100-Days-Of-Algorithms/2-Matrix-Chain-Multiplication/matrix_chain_multiplication.py)
