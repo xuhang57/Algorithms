@@ -15,5 +15,5 @@ The minimum number number of moves required to solve a Tower of Hanoi puzzle is 
 
 ## Code
 
-* [hanoi_tower.py](https://github.com/xuhang57/Learn-Algorithms/blob/master/100-Days-Of-Algorithms/Hanoi-Tower/hanoi_tower.py)
+* [hanoi_tower.py](https://github.com/xuhang57/Learn-Algorithms/blob/master/100-Days-Of-Algorithms/1-Hanoi-Tower/hanoi_tower.py)
 
