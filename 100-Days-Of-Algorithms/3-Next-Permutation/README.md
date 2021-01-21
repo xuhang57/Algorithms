@@ -19,4 +19,4 @@ The algorithm has four steps:
 
 ## Code
 
-[Next Permutation](https://github.com/xuhang57/Learn-Algorithms/blob/master/100-Days-Of-Algorithms/Next-Permutation/next_permutation.py)
+[Next Permutation](https://github.com/xuhang57/Learn-Algorithms/blob/master/100-Days-Of-Algorithms/3-Next-Permutation/next_permutation.py)
